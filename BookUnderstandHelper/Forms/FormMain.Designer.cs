@@ -1,4 +1,4 @@
-﻿namespace BookUnderstandHelper
+﻿namespace BookUnderstandHelper.Forms
 {
     partial class FormMain
     {
@@ -61,6 +61,7 @@
             this.buttonBrowse.TabIndex = 1;
             this.buttonBrowse.Text = "Browse";
             this.buttonBrowse.UseVisualStyleBackColor = true;
+            this.buttonBrowse.Click += new System.EventHandler(this.buttonBrowse_Click);
             // 
             // buttonScan
             // 

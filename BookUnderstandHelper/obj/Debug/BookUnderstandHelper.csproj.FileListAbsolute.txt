@@ -10,3 +10,9 @@ E:\Work\BookUnderstandHelper\BookUnderstandHelper\obj\Debug\BookUnderstandHelper
 E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\bin\Debug\BookUnderstandHelper.exe.config
 E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\obj\Debug\BookUnderstandHelper.exe
 E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\obj\Debug\BookUnderstandHelper.pdb
+E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\obj\Debug\BookUnderstandHelper.csprojResolveAssemblyReference.cache
+E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\obj\Debug\BookUnderstandHelper.Forms.FormMain.resources
+E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\obj\Debug\BookUnderstandHelper.Properties.Resources.resources
+E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\obj\Debug\BookUnderstandHelper.csproj.GenerateResource.Cache
+E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\bin\Debug\BookUnderstandHelper.exe
+E:\Work\GitHub\BookUnderstandHelper\BookUnderstandHelper\bin\Debug\BookUnderstandHelper.pdb
