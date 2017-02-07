@@ -123,6 +123,7 @@
             this.buttonAddUser.TabIndex = 8;
             this.buttonAddUser.Text = "Add user";
             this.buttonAddUser.UseVisualStyleBackColor = true;
+            this.buttonAddUser.Click += new System.EventHandler(this.buttonAddUser_Click);
             // 
             // buttonSave
             // 
@@ -176,6 +177,7 @@
             this.buttonAddLang.TabIndex = 14;
             this.buttonAddLang.Text = "Add Lang";
             this.buttonAddLang.UseVisualStyleBackColor = true;
+            this.buttonAddLang.Click += new System.EventHandler(this.buttonAddLang_Click);
             // 
             // FormMain
             // 
