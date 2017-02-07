@@ -71,6 +71,7 @@
             this.buttonScan.TabIndex = 2;
             this.buttonScan.Text = "Scan";
             this.buttonScan.UseVisualStyleBackColor = true;
+            this.buttonScan.Click += new System.EventHandler(this.buttonScan_Click);
             // 
             // openFileDialogDocument
             // 
